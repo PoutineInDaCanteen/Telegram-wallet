@@ -1,0 +1,5 @@
+import os
+
+TOKEN = "5458976355:AAFjGkLkgV5QsBI7LEQOPeqKQZmsmUa70oE"
+TIMEZONE = 'Europe/Istanbul'
+TIMEZONE_COMMON_NAME = 'Istanbul'
